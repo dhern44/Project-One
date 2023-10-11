@@ -1,4 +1,4 @@
-body{
+.bodyO{
 
     text-align:center;
     color:#bf0202;
@@ -15,8 +15,7 @@ body{
 p{
     text-align: center;
     color:"#bf0202";
-    font-size: 25px;
-    
+    font-size: 25px; 
 }
 
 
@@ -26,7 +25,6 @@ h1{
     text-align:center;
     color:"#bf0202";
     font-size:60px;
-    
 }
 
 .clickme{
@@ -47,7 +45,6 @@ h1{
     position:relative;
     top: 100px;
     right: 200px;
-
 }
 
 audio{
@@ -60,17 +57,12 @@ audio{
     position: relative;
     bottom:350px;
     right: 680px;
-    
-
 }
 
 .pikarun2{
     position: relative;
     bottom:350px;
     left: 150px;
-
-   
-
 }
 
 
