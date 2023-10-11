@@ -1,0 +1,268 @@
+.teamL{
+    width: 650px;
+    position: relative;
+    left: 150px;
+}
+.bodyL{
+    color: red;
+    text-align: center;
+    font-family: 'Pixelify Sans', sans-serif;
+}
+
+.brunoLink{
+    position: relative;
+    top: 100px;
+    left: 150px;
+  padding: 15px 25px;
+  color: white;
+  background-color:red;
+  font-size:20px;
+  font-family:'Pixelify Sans', sans-serif;
+}
+
+.brunoLink:hover{
+    position: relative;
+    top: 100px;
+    left: 150px;
+  padding: 15px 25px;
+  color: red;
+  background-color:white;
+  font-size:20px;
+  font-family:'Pixelify Sans', sans-serif;
+}
+
+.returnL{
+    position: relative;
+    top: 100px;
+    right: 800px;
+  padding: 15px 25px;
+  color: white;
+  background-color:red;
+  font-size:20px;
+  font-family:'Pixelify Sans', sans-serif;
+}
+
+.returnL:hover{
+    position: relative;
+    top: 100px;
+    right: 800px;
+  padding: 15px 25px;
+  color: red;
+  background-color:white;
+  font-size:20px;
+  font-family:'Pixelify Sans', sans-serif;
+}
+
+
+.bodyB{
+    color: red;
+    text-align:center;
+    font-family: 'Pixelify Sans', sans-serif;
+}
+
+.teamB{
+    width: 650px;
+    position: relative;
+    left: 150px; 
+}
+
+.agathaLink{
+ position: relative;
+top: 100px;
+ left: 150px;
+  padding: 15px 25px;
+  color: white;
+  background-color:red;
+  font-size:20px;
+  font-family:'Pixelify Sans', sans-serif;
+}
+
+.agathaLink:hover{
+    position: relative;
+    top: 100px;
+    left: 150px;
+  padding: 15px 25px;
+  color: red;
+  background-color:white;
+  font-size:20px;
+  font-family:'Pixelify Sans', sans-serif;
+}
+
+.returnB{
+    position: relative;
+    top: 100px;
+    right: 800px;
+  padding: 15px 25px;
+  color: white;
+  background-color:red;
+  font-size:20px;
+  font-family:'Pixelify Sans', sans-serif;
+}
+
+.returnB:hover{
+    position: relative;
+    top: 100px;
+    right: 800px;
+  padding: 15px 25px;
+  color: red;
+  background-color:white;
+  font-size:20px;
+  font-family:'Pixelify Sans', sans-serif;
+}
+
+.bodyA{
+    color: red;
+    text-align:center;
+    font-family: 'Pixelify Sans', sans-serif;
+}
+
+.teamA{
+    width: 650px;
+    position: relative;
+    left: 150px; 
+}
+
+.lanceLink{
+    position: relative;
+    top: 50px;
+     left: 150px;
+      padding: 15px 25px;
+      color: white;
+      background-color:red;
+      font-size:20px;
+      font-family:'Pixelify Sans', sans-serif;
+}
+
+.lanceLink:hover{
+    position: relative;
+top: 50px;
+ left: 150px;
+  padding: 15px 25px;
+  color: red;
+  background-color:white;
+  font-size:20px;
+  font-family:'Pixelify Sans', sans-serif;
+}
+
+.returnA{
+    position: relative;
+    top: 50px;
+    right: 800px;
+  padding: 15px 25px;
+  color: white;
+  background-color:red;
+  font-size:20px;
+  font-family:'Pixelify Sans', sans-serif;
+}
+
+.returnA:hover{
+    position: relative;
+    top: 50px;
+    right: 800px;
+  padding: 15px 25px;
+  color: red;
+  background-color:white;
+  font-size:20px;
+  font-family:'Pixelify Sans', sans-serif;
+}
+
+
+
+.bodyLance{
+    color: red;
+    text-align:center;
+    font-family: 'Pixelify Sans', sans-serif;
+}
+
+.teamLance{
+    width: 650px;
+    position: relative;
+    left: 150px; 
+}
+
+.returnLance{
+    position: relative;
+    top: 50px;
+    right: 800px;
+  padding: 15px 25px;
+  color: white;
+  background-color:red;
+  font-size:20px;
+  font-family:'Pixelify Sans', sans-serif;
+}
+
+.returnLance:hover{
+    position: relative;
+    top: 50px;
+    right: 800px;
+  padding: 15px 25px;
+  color: red;
+  background-color:white;
+  font-size:20px;
+  font-family:'Pixelify Sans', sans-serif;
+}
+
+.linkBlue{
+    position: relative;
+    top: 50px;
+     left: 150px;
+      padding: 15px 25px;
+      color: white;
+      background-color:red;
+      font-size:20px;
+      font-family:'Pixelify Sans', sans-serif;
+}
+
+.linkBlue:hover{
+    position: relative;
+    top: 50px;
+     left: 150px;
+      padding: 15px 25px;
+      color: red;
+      background-color:white;
+      font-size:20px;
+      font-family:'Pixelify Sans', sans-serif;
+}
+
+
+.bodyBlue{
+    color: red;
+    text-align:center;
+    font-family: 'Pixelify Sans', sans-serif;
+    font-size: 20px
+}
+
+.blueP{
+    position: relative;
+    top: 400px;
+    font-size: 40px
+}
+
+.returnLast{
+    background-color: black;
+    color: white;
+    padding: 15px 20px;
+    position: relative;
+    top:200px ;
+    right: 150px;
+    font-size: 20px;
+    font-family: 'Pixelify Sans', sans-serif;
+}
+
+.returnLast:hover{
+    background-color: white;
+    color: black;
+    text-align:center;
+    padding: 15px 20px;
+    position: relative;
+    top:200px ;
+    right: 150px;
+    font-size: 20px;
+    font-family: 'Pixelify Sans', sans-serif;
+}
+
+.champVid{
+    position: relative;
+    left:70px
+}
+

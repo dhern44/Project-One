@@ -1,0 +1,77 @@
+body{
+
+    text-align:center;
+    color:#bf0202;
+    margin: 0; 
+    font-family: 'Pixelify Sans', sans-serif;
+    background-color: black;
+    background-image: url("../media/images/redBackground.jpg");
+    background-size: cover;
+    
+
+
+}
+
+p{
+    text-align: center;
+    color:"#bf0202";
+    font-size: 25px;
+    
+}
+
+
+
+
+h1{
+    text-align:center;
+    color:"#bf0202";
+    font-size:60px;
+    
+}
+
+.clickme{
+    background-color: white;
+    color: black;
+    text-align:center;
+    padding: 15px 20px;
+    position: relative;
+    top:100px ;
+    left: 220px;
+    font-size: 20px;
+    font-family: 'Pixelify Sans', sans-serif;
+}
+
+.clickme:hover{
+    background-color: black;
+    color: white;
+    position:relative;
+    top: 100px;
+    right: 200px;
+
+}
+
+audio{
+ position: relative;
+ top: 400px;
+ right: 60px;
+}
+
+.pikarun{
+    position: relative;
+    bottom:350px;
+    right: 680px;
+    
+
+}
+
+.pikarun2{
+    position: relative;
+    bottom:350px;
+    left: 150px;
+
+   
+
+}
+
+
+
