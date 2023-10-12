@@ -1,68 +1,65 @@
 .bodyO{
-
     text-align:center;
-    color:#bf0202;
+    color:red;
     margin: 0; 
-    font-family: 'Pixelify Sans', sans-serif;
     background-color: black;
     background-image: url("../media/images/redBackground.jpg");
-    background-size: cover;
-    
-
-
+    background-size:cover;
 }
 
 p{
     text-align: center;
-    color:"#bf0202";
+    color:red;
+    font-family: 'Pixelify Sans', sans-serif;
     font-size: 25px; 
 }
 
-
-
-
 h1{
     text-align:center;
-    color:"#bf0202";
+    color:red;
+    font-family: 'Pixelify Sans', sans-serif;
     font-size:60px;
+
 }
 
 .clickme{
     background-color: white;
     color: black;
-    text-align:center;
+    position:relative;
     padding: 15px 20px;
-    position: relative;
-    top:100px ;
-    left: 220px;
-    font-size: 20px;
+    top: 0px;
+    left: 250px;
     font-family: 'Pixelify Sans', sans-serif;
+    font-size: 20px;
 }
 
 .clickme:hover{
     background-color: black;
     color: white;
     position:relative;
-    top: 100px;
-    right: 200px;
+    padding: 15px 20px;
+    top: 0px;
+    left: 250px;
+    font-family: 'Pixelify Sans', sans-serif;
+    font-size: 20px;
 }
 
-audio{
+.audio1{
  position: relative;
- top: 400px;
- right: 60px;
+ top: 300px;
+ left: 0px;
 }
 
 .pikarun{
     position: relative;
     bottom:350px;
-    right: 680px;
+    right: 620px;
 }
 
 .pikarun2{
     position: relative;
     bottom:350px;
-    left: 150px;
+    left: 100px;
 }
 
 
